@@ -6,10 +6,6 @@ The ultimate crypto wallet for PyroCoin.
 
 - **PWA:** You can add Torch to your homescreen and get a near native expirence.
 
-## [DELETE THIS] Add these Github Secrets [DELETE THIS]
-
-- [ ] `CYPRESS_RECORD_KEY`: You'll get this by following this tutorial: https://docs.cypress.io/guides/dashboard/projects.html#Setup
-
 ## Available Scripts
 
 In the project directory, you can run:
