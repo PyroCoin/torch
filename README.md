@@ -1,22 +1,10 @@
-# YOUR_APP &middot; ![Crows](https://img.shields.io/badge/Made%20with-Crows-black?logo=react&logoColor=white)
+# Torch &middot; ![Crows](https://img.shields.io/badge/Made%20with-Crows-black?logo=react&logoColor=white)
 
-SHORT_DESCRIPTION
+The ultimate crypto wallet for PyroCoin.
 
-- **Offline Support:** Since YOUR_APP uses `create-react-app` as a boilerplate generator, YOUR_APP uses [Google Workbox](https://developers.google.com/web/tools/workbox) and has a built in Service Worker to cache the app to your device and enable fast loading and offline support! At 10,000 feet in the air or 100 feet under, you can continue to use YOUR_APP.
+- **Offline Support:** Since Torch uses `create-react-app` as a boilerplate generator, Torch uses [Google Workbox](https://developers.google.com/web/tools/workbox) and has a built in Service Worker to cache the app to your device and enable fast loading and offline support! At 10,000 feet in the air or 100 feet under, you can continue to use Torch.
 
-- **PWA:** You can add YOUR_APP to your homescreen and get a near native expirence.
-
-## [DELETE THIS] Replace these template strings [DELETE THIS]
-
-Use your editor's find all in path tool to replace these template strings.
-_All template strings to be replaced are in `SCREAMING_SNAKE_CASE`_
-
-- [ ] `YOUR_APP`: The short, human readable name of your app.
-
-  - Examples: "Discord", "PhotoShop Mix"
-
-- [ ] `SHORT_DESCRIPTION`: A short description of your app.
-  - Example: "Tinder for dogs", "Chat for the 21st century"
+- **PWA:** You can add Torch to your homescreen and get a near native expirence.
 
 ## [DELETE THIS] Add these Github Secrets [DELETE THIS]
 
